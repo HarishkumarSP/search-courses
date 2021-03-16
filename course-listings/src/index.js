@@ -1,8 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import './bootstrap/bootstrap.min.css';
-import Search from './Search';
+import Search from './components/Search';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
