@@ -3,13 +3,11 @@
     padding: 0;
     }
   
-    button {
+    .btn {
       padding: 12px 10px;
       width: 30%;
-      border-radius: 4px;
-      cursor: pointer;
-      font-size: 18px;
-      float: middle;
+      margin-left: 38%;
+      margin-top: 10px;
       }
       input {
         margin: 10px;
@@ -20,9 +18,12 @@
         font-size: 18px;
         }
 
-        .text-center{
+        .text-center,h3,.btn,p{
           font-family: 'Lobster', cursive;
-          
+        }
+        .total-found{
+          margin-right: 8%;
+          font-size: 30px;
         }
   
   
